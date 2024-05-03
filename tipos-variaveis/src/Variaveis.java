@@ -1,4 +1,4 @@
-public class App {
+public class Variaveis {
     @SuppressWarnings("unused")
     public static void main(String[] args) throws Exception {
         
